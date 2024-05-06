@@ -1,0 +1,20 @@
+{
+  "name": "yanix", 
+  "version": "1.0.0", 
+  "description": "Develop a package that provides easy access to geolocation data and services, such as getting the user's location based on IP address or coordinates, calculating distances between locations, etc.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/9nxex/yanix.git" 
+  },
+  "keywords": [ 
+    "", 
+    "",
+    ""
+  ],
+  "author": "yanix", 
+  "license": "MIT"
+}
